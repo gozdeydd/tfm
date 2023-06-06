@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "EMSR648_AOI15_GRA_MONIT01_facilitiesA_r1_v1",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "obj_type": "24-Other Civil Engineering Works", "name": "Unknown", "info": "2412-Other sport and recreation constructions", "damage_gra": "No visible damage", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.572044700000049, 37.196256400000038 ], [ 36.57126420000003, 37.195608700000037 ], [ 36.571170700000039, 37.195747900000072 ], [ 36.570999900000061, 37.196156 ], [ 36.570983700000056, 37.196356700000024 ], [ 36.570955200000071, 37.196751800000072 ], [ 36.570943, 37.197088600000029 ], [ 36.570877900000028, 37.197451300000068 ], [ 36.570735700000057, 37.197797800000046 ], [ 36.570930800000042, 37.19784640000006 ], [ 36.571121900000037, 37.197629400000039 ], [ 36.571268200000077, 37.197409200000038 ], [ 36.571536600000059, 37.196781 ], [ 36.571662600000025, 37.196664400000031 ], [ 36.572036600000047, 37.196308200000033 ], [ 36.572044700000049, 37.196256400000038 ] ] ] } }
-]
-}

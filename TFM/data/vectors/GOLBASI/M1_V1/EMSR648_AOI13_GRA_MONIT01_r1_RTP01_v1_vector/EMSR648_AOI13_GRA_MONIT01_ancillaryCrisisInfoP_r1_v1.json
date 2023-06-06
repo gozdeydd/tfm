@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 25, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628322998000044, 37.77726092000006 ] } }
-
-]
-}
