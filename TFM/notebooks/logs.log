@@ -38748,3 +38748,21 @@ pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '66.0.0', 'pycaret': '3.0.
 2023-05-28 23:06:19,819:ERROR:(Process Exit): setup has been interupted with user command 'quit'. setup must rerun.
 2023-05-28 23:06:19,819:INFO:Creating global containers
 2023-05-28 23:06:19,819:INFO:Internal pipeline: Pipeline(memory=None, steps=[('empty_step', 'passthrough')], verbose=False)
+2023-07-15 23:39:55,841:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-15 23:39:55,841:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-15 23:39:55,841:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-15 23:39:55,841:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-15 23:39:55,852:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-07-16 00:22:50,275:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-16 00:22:50,275:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-16 00:22:50,275:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-16 00:22:50,275:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
