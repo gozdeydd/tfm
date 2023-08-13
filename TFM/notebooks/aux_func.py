@@ -3,6 +3,8 @@ import pickle
 import geopandas as gpd
 import fiona
 from sklearn.neighbors import BallTree
+import seaborn as sns
+import pandas as pd
 
 import matplotlib.pyplot as plt
 
@@ -90,4 +92,80 @@ def plot_and_show_last(data):
 # plot_and_show_last(data_elbistan)
 
 
+
+def plot_continuous_for_damage_level(data, column, damage_level):
+    """
+    Plot the distribution of a continuous variable for different damage levels using boxplots.
+
+    Parameters:
+    - data: DataFrame containing the information.
+    - column: The name of the continuous column.
+    - damage_level: Column name that contains the damage levels.
+    """
+
+    plt.figure(figsize=(10,6))
+    
+    sns.boxplot(
+        data=data, 
+        x=damage_level, 
+        y=column, 
+        palette="coolwarm"
+    )
+
+    plt.title(f"Boxplot of {column} for different {damage_level}")
+    plt.ylabel(column)
+    plt.xlabel(damage_level)
+    plt.xticks(rotation=45)  # Rotate x-axis labels for better visibility
+    plt.show()
+
+# Example usage:
+# Assuming 'building_height' is a continuous variable and 'damage_status' is the target variable.
+# plot_continuous_for_damage_level(data, 'building_height', 'damage_status')
+
+def remove_duplicates(df):
+    """
+    This function takes a DataFrame and returns a new DataFrame with duplicate rows removed.
+    """
+    print("Before removing duplicates, number of rows: ", df.shape[0])
+    
+    # Remove duplicates
+    df = df.drop_duplicates()
+    
+    print("After removing duplicates, number of rows: ", df.shape[0])
+    
+    return df
+
+
+def plot_for_damage_level(data, column, damage_level):
+    """
+    Plot the distribution for the given damage level.
+
+    Parameters:
+    - data: DataFrame containing the information.
+    - damage_level: Column name that contains the damage levels.
+    """
+
+    grouped_data = data.groupby([column, damage_level]).size().reset_index(name='count')
+
+    distinct_values = grouped_data[damage_level].unique()
+
+    for value in distinct_values:
+        filtered_data = grouped_data[grouped_data[damage_level] == value]
+
+        # Sort the filtered_data by 'count' in descending order
+        filtered_data = filtered_data.sort_values(by='count', ascending=False)
+
+        # Create the plot
+        plt.figure(figsize=(10,6))
+        sns.barplot(
+            data=filtered_data, 
+            x=column, y='count', 
+            color="gray", alpha=.6
+        )
+
+        plt.title(f"Graph for {damage_level}: {value}")
+        plt.ylabel("Count")
+        plt.xlabel(f"Building Damage with {column}")
+        plt.xticks(rotation=90)  # Rotate x-axis labels for better visibility
+        plt.show()
     
