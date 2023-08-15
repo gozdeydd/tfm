@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR648_AOI14_GRA_MONIT01_hydrographyA_r1_v1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "BH080-Lake", "name": "Su Deposu", "notation": "Not Applicable", "or_src_id": 994, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.467721300000051, 37.249804100000063 ], [ 36.467681500000026, 37.249482900000032 ], [ 36.467337800000053, 37.249509900000078 ], [ 36.46735410000008, 37.249640700000043 ], [ 36.467306400000041, 37.249644500000045 ], [ 36.467316800000049, 37.249727800000073 ], [ 36.467367200000069, 37.249723900000049 ], [ 36.467380500000047, 37.249830900000063 ], [ 36.467721300000051, 37.249804100000063 ] ] ] } }
+]
+}

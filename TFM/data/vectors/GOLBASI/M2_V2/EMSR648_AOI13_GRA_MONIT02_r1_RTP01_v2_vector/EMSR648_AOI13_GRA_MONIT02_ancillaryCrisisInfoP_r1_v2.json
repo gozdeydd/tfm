@@ -1,0 +1,328 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 25, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628322998000044, 37.77726092000006 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 8, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.656687672000032, 37.790347480000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 8, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.657554986000036, 37.790743660000032 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 30, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650439339000059, 37.787288799000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 25, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.62837556900007, 37.777243508000026 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 8, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.627635412000075, 37.778375972000049 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 7, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.636998327000072, 37.781640735000053 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 7, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.636712791000036, 37.78220109800003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.638147606000075, 37.781191017000026 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637490875000026, 37.781108925000069 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 6, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.642469897000069, 37.782993458000078 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 10, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.649365575000047, 37.785538292000069 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.657030315000043, 37.790652646000069 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658031473000051, 37.791316515000062 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 6, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659594779000031, 37.791139840000028 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.660392493000074, 37.790486678000036 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659466288000033, 37.791348638000045 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658192086000042, 37.791841186000056 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658620389000077, 37.79212493700004 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659771454000065, 37.790449202000048 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.657522863000054, 37.791664511000079 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658250978000069, 37.792499702000043 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.657640646000061, 37.788607499000079 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.654401605000032, 37.788671744000055 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 6, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.649824117000037, 37.784651050000036 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.648812251000038, 37.785421996000025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652527780000071, 37.78165828300007 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.651815726000052, 37.781738590000032 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.642485413000031, 37.790303311000059 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.625958272000048, 37.779759027000068 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631551868000031, 37.780619562000027 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631235396000079, 37.781215815000053 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630111688000056, 37.780807611000057 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.629286107000041, 37.78040399300005 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.626772672000072, 37.781408450000072 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628171573000031, 37.782660581000073 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628194506000057, 37.782889909000062 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628813692000051, 37.784270464000031 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630405228000029, 37.783532028000025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630377709000072, 37.784288810000078 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.629341146000058, 37.784605283000076 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637469534000047, 37.788893850000079 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.623910145000025, 37.780205709000029 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628253353000048, 37.787904337000043 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631934641000043, 37.780052959000045 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631955008000034, 37.778703662000055 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.624083262000056, 37.781356430000073 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.626481446000071, 37.785460328000056 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.626700389000064, 37.785511245000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.626960065000048, 37.785826930000042 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.62703644000004, 37.785776013000032 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.62705171500005, 37.786947101000067 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.627158640000061, 37.786967467000068 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631797166000069, 37.787883971000042 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.632061933000045, 37.788240389000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.632876603000057, 37.788698640000064 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.633395955000026, 37.788861574000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.636944859000039, 37.778535636000072 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637484578000056, 37.777746425000032 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637143435000041, 37.778163943000038 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635157678000041, 37.778270869000039 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635534463000056, 37.778683295000064 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635239145000071, 37.779217922000043 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.642301312000029, 37.780144609000047 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.641822694000041, 37.77984420000007 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 8, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.647481678000076, 37.787723158000063 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 6, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.647423123000067, 37.788377440000033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.649103804000049, 37.786982742000077 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650259616000028, 37.781239321000044 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.644531470000061, 37.776921572000049 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659170066000058, 37.779472507000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658090628000025, 37.789946103000034 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658309571000075, 37.79041453800005 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658380854000029, 37.791132466000079 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650381817000039, 37.790124312000046 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 5, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.651420521000034, 37.790918615000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.660504087000049, 37.784217957000067 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 6, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.661634441000047, 37.78246641700008 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.624913207000077, 37.776249470000039 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 3, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.63372182300003, 37.779054988000041 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635600655000076, 37.776534604000062 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 4, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635259512000061, 37.777425649000065 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.647194422000041, 37.790063212000064 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 2, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650193424000065, 37.783881906000033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 29, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650264708000066, 37.78438598300005 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.627942760000053, 37.787863604000052 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.62969430000004, 37.785832021000033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.628793071000075, 37.784686392000026 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631328731000053, 37.782822835000047 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.632097575000046, 37.78320980400008 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630076176000046, 37.782262750000029 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.62903747200005, 37.78250205900008 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630575161000024, 37.780129334000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.629480449000027, 37.779767824000032 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.629862325000033, 37.779905300000053 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630733003000046, 37.780877812000028 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634225899000057, 37.778046835000055 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634032415000036, 37.777939909000054 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.63443975000007, 37.777390007000065 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634266633000038, 37.777181248000034 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.63438883300006, 37.777008131000059 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634602684000072, 37.776865564000047 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.632973345000039, 37.776636438000025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.633360313000026, 37.777033589000041 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.633014078000031, 37.778046835000055 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.632382709000069, 37.778505086000052 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.636944859000039, 37.777221982000071 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635906156000033, 37.777965368000025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634531401000061, 37.778097752000065 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634684151000044, 37.778077385000074 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.64181760200006, 37.776147636000076 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.641242242000033, 37.775618101000077 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.638808416000074, 37.778545820000033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.635178045000032, 37.788209838000057 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637214719000042, 37.791142649000051 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.648243309000065, 37.784508183000071 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.651332548000028, 37.781960926000068 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.651271447000056, 37.78142120800004 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.650083387000052, 37.782551562000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.645157748000031, 37.78027699300003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.645860400000061, 37.780944004000048 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.642387871000039, 37.77839306900006 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.655264743000032, 37.778973521000069 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.65789714400006, 37.78965587700003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.656410372000039, 37.78972716100003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.657917511000051, 37.79044508800007 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658803464000073, 37.790918615000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659047865000048, 37.79105609100003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.659164974000078, 37.791163016000041 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652118081000026, 37.789941011000053 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652179182000054, 37.789844269000071 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652031523000062, 37.789436935000026 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.65266289200008, 37.78908560800005 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652785092000045, 37.789024508000068 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.652958210000065, 37.789146709000079 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.653294261000042, 37.789579502000038 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658075353000072, 37.792145711000046 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.658116087000053, 37.792084611000064 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.662703695000062, 37.792904372000066 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.662057051000033, 37.793265882000071 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.66180246700003, 37.790333071000077 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.660656838000079, 37.783724064000069 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.660738305000052, 37.783479663000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.660850322000044, 37.783372737000036 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.667876847000059, 37.801448220000054 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.623543544000029, 37.776213828000039 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630544611000062, 37.787252602000081 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.630962129000068, 37.785663996000039 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.629322607000063, 37.784365616000059 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.631364372000064, 37.781860507000033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.636868484000047, 37.77630547800004 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.634806352000055, 37.777476566000075 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.638635299000043, 37.775266775000034 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.638543649000042, 37.779299389000073 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637235085000043, 37.784492908000061 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.637336919000063, 37.784299424000039 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.641649577000067, 37.787573378000047 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.647209697000051, 37.790241421000076 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.647729049000077, 37.79036362100004 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 1, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.651965331000042, 37.783515305000037 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 7, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 4, "dmg_src_id": 4, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 37.624555834000034, 37.777770929000042 ] } }
+
+]
+}

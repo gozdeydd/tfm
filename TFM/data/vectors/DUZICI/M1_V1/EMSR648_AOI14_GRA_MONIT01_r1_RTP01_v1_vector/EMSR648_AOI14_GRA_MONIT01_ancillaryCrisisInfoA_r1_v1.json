@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR648_AOI14_GRA_MONIT01_ancillaryCrisisInfoA_r1_v1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 997, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 3, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.455560430000048, 37.247111079000035 ], [ 36.455276059000028, 37.246840303000056 ], [ 36.455110837000063, 37.246964074000061 ], [ 36.45522909500005, 37.247225556000046 ], [ 36.455354096000065, 37.24718236800004 ], [ 36.455418566000048, 37.247160094000037 ], [ 36.455560430000048, 37.247111079000035 ] ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "Camp", "element_co": 997, "obj_desc": "Temporary camp", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 3, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.466339676000075, 37.242954470000029 ], [ 36.466254282000079, 37.242387552000025 ], [ 36.466092393000054, 37.242412698000066 ], [ 36.466210338000053, 37.242964826000048 ], [ 36.466339676000075, 37.242954470000029 ] ] ] } }
+]
+}

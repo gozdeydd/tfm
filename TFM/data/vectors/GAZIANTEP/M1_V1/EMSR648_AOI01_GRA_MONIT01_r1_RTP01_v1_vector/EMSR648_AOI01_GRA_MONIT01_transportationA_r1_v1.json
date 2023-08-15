@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR648_AOI01_GRA_MONIT01_transportationA_r1_v1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "213-Airfield", "name": "Unknown", "info": "21312-Helipad", "damage_gra": "No visible damage", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.35911980000003, 37.05805550000008 ], [ 37.358869100000049, 37.058018300000072 ], [ 37.358810800000072, 37.058211400000062 ], [ 37.359058600000026, 37.058253200000024 ], [ 37.35911980000003, 37.05805550000008 ] ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "213-Airfield", "name": "Unknown", "info": "21312-Helipad", "damage_gra": "No visible damage", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.359539600000062, 37.058124500000076 ], [ 37.359303, 37.058084 ], [ 37.359248800000046, 37.058285900000044 ], [ 37.35948540000004, 37.058326300000033 ], [ 37.359539600000062, 37.058124500000076 ] ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "213-Airfield", "name": "Unknown", "info": "21312-Helipad", "damage_gra": "No visible damage", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.358614500000044, 37.05803590000005 ], [ 37.358419, 37.058008600000051 ], [ 37.358380300000078, 37.058185300000048 ], [ 37.35857580000004, 37.058212500000025 ], [ 37.358614500000044, 37.05803590000005 ] ] ] } }
+]
+}

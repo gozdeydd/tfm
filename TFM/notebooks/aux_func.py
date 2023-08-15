@@ -168,4 +168,11 @@ def plot_for_damage_level(data, column, damage_level):
         plt.xlabel(f"Building Damage with {column}")
         plt.xticks(rotation=90)  # Rotate x-axis labels for better visibility
         plt.show()
+        
+        
+    """ A function to clean string values in a DataFrame."""    
+def sanitize_string_values(df, columns_to_sanitize):
+    for col in columns_to_sanitize:
+        df[col] = df[col].apply(lambda x: "".join(c if c.isalnum() else "_" for c in str(x)).upper())
+    return df
     

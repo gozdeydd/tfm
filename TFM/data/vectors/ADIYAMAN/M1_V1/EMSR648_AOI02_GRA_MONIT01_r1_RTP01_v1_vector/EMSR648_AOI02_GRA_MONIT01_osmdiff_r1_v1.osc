@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osmChange version="0.6" generator="Copernicus Emergency Management Service (© European Union, 2012-2022)">
+  <create>
+    <node changeset="1" id="-1" lat="37.7837301590001" lon="38.1944444440001" version="1" />
+    <node changeset="1" id="-2" lat="37.7837301590001" lon="38.1944120570001" version="1" />
+    <node changeset="1" id="-3" lat="37.7840463790001" lon="38.1943990600001" version="1" />
+    <node changeset="1" id="-4" lat="37.7840643220001" lon="38.1944444440001" version="1" />
+    <way changeset="1" id="-5" version="1">
+      <nd ref="-1" />
+      <nd ref="-2" />
+      <nd ref="-3" />
+      <nd ref="-4" />
+      <nd ref="-1" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-6" lat="37.778181256" lon="38.1974206350001" version="1" />
+    <node changeset="1" id="-7" lat="37.7780863090001" lon="38.194644016" version="1" />
+    <node changeset="1" id="-8" lat="37.779761905" lon="38.194575151" version="1" />
+    <node changeset="1" id="-9" lat="37.779761905" lon="38.1964285710001" version="1" />
+    <node changeset="1" id="-10" lat="37.779761905" lon="38.1974206350001" version="1" />
+    <way changeset="1" id="-11" version="1">
+      <nd ref="-6" />
+      <nd ref="-7" />
+      <nd ref="-8" />
+      <nd ref="-9" />
+      <nd ref="-10" />
+      <nd ref="-6" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-12" lat="37.777777778" lon="38.199404762" version="1" />
+    <node changeset="1" id="-13" lat="37.777415111" lon="38.199404762" version="1" />
+    <node changeset="1" id="-14" lat="37.777777778" lon="38.1993180370001" version="1" />
+    <way changeset="1" id="-15" version="1">
+      <nd ref="-12" />
+      <nd ref="-13" />
+      <nd ref="-14" />
+      <nd ref="-12" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-16" lat="37.7450396830001" lon="38.311887346" version="1" />
+    <node changeset="1" id="-17" lat="37.7450396830001" lon="38.311507937" version="1" />
+    <node changeset="1" id="-18" lat="37.746031746" lon="38.311507937" version="1" />
+    <node changeset="1" id="-19" lat="37.746031746" lon="38.3125000000001" version="1" />
+    <node changeset="1" id="-20" lat="37.749007937" lon="38.3125000000001" version="1" />
+    <node changeset="1" id="-21" lat="37.749007937" lon="38.3134920630001" version="1" />
+    <node changeset="1" id="-22" lat="37.7500000000001" lon="38.3134920630001" version="1" />
+    <node changeset="1" id="-23" lat="37.7500000000001" lon="38.3142011310001" version="1" />
+    <node changeset="1" id="-24" lat="37.74702381" lon="38.3135445290001" version="1" />
+    <node changeset="1" id="-25" lat="37.74702381" lon="38.3134920630001" version="1" />
+    <node changeset="1" id="-26" lat="37.746785995" lon="38.3134920630001" version="1" />
+    <node changeset="1" id="-27" lat="37.745928441" lon="38.3133028710001" version="1" />
+    <way changeset="1" id="-28" version="1">
+      <nd ref="-16" />
+      <nd ref="-17" />
+      <nd ref="-18" />
+      <nd ref="-19" />
+      <nd ref="-20" />
+      <nd ref="-21" />
+      <nd ref="-22" />
+      <nd ref="-23" />
+      <nd ref="-24" />
+      <nd ref="-25" />
+      <nd ref="-26" />
+      <nd ref="-27" />
+      <nd ref="-16" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-29" lat="37.749007937" lon="38.310515873" version="1" />
+    <node changeset="1" id="-30" lat="37.746031746" lon="38.310515873" version="1" />
+    <node changeset="1" id="-31" lat="37.746031746" lon="38.308531746" version="1" />
+    <node changeset="1" id="-32" lat="37.74702381" lon="38.308531746" version="1" />
+    <node changeset="1" id="-33" lat="37.74702381" lon="38.3075396830001" version="1" />
+    <node changeset="1" id="-34" lat="37.748015873" lon="38.3075396830001" version="1" />
+    <node changeset="1" id="-35" lat="37.748015873" lon="38.308531746" version="1" />
+    <node changeset="1" id="-36" lat="37.749007937" lon="38.308531746" version="1" />
+    <way changeset="1" id="-37" version="1">
+      <nd ref="-29" />
+      <nd ref="-30" />
+      <nd ref="-31" />
+      <nd ref="-32" />
+      <nd ref="-33" />
+      <nd ref="-34" />
+      <nd ref="-35" />
+      <nd ref="-36" />
+      <nd ref="-29" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-38" lat="37.7268532350001" lon="38.2033730160001" version="1" />
+    <node changeset="1" id="-39" lat="37.7267135490001" lon="38.2025115000001" version="1" />
+    <node changeset="1" id="-40" lat="37.727019394" lon="38.2023809520001" version="1" />
+    <node changeset="1" id="-41" lat="37.7271825400001" lon="38.2023809520001" version="1" />
+    <node changeset="1" id="-42" lat="37.7271825400001" lon="38.2033730160001" version="1" />
+    <way changeset="1" id="-43" version="1">
+      <nd ref="-38" />
+      <nd ref="-39" />
+      <nd ref="-40" />
+      <nd ref="-41" />
+      <nd ref="-42" />
+      <nd ref="-38" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-44" lat="37.7759716630001" lon="38.295617012" version="1" />
+    <node changeset="1" id="-45" lat="37.7760806470001" lon="38.2959613260001" version="1" />
+    <node changeset="1" id="-46" lat="37.776152031" lon="38.296264707" version="1" />
+    <node changeset="1" id="-47" lat="37.7761817740001" lon="38.2963360910001" version="1" />
+    <node changeset="1" id="-48" lat="37.776187722" lon="38.2965859340001" version="1" />
+    <node changeset="1" id="-49" lat="37.7760925440001" lon="38.296907162" version="1" />
+    <node changeset="1" id="-50" lat="37.77580106" lon="38.297305721" version="1" />
+    <node changeset="1" id="-51" lat="37.775134811" lon="38.297888689" version="1" />
+    <node changeset="1" id="-52" lat="37.7744744140001" lon="38.298206893" version="1" />
+    <way changeset="1" id="-53" version="1">
+      <nd ref="-44" />
+      <nd ref="-45" />
+      <nd ref="-46" />
+      <nd ref="-47" />
+      <nd ref="-48" />
+      <nd ref="-49" />
+      <nd ref="-50" />
+      <nd ref="-51" />
+      <nd ref="-52" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-54" lat="37.7638460000001" lon="38.3112534000001" version="1" />
+    <node changeset="1" id="-55" lat="37.76392636" lon="38.3120548100001" version="1" />
+    <node changeset="1" id="-56" lat="37.7625843440001" lon="38.312740095" version="1" />
+    <node changeset="1" id="-57" lat="37.762436" lon="38.3119829" version="1" />
+    <way changeset="1" id="-58" version="1">
+      <nd ref="-54" />
+      <nd ref="-55" />
+      <nd ref="-56" />
+      <nd ref="-57" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-59" lat="37.743207484" lon="38.238574478" version="1" />
+    <node changeset="1" id="-60" lat="37.743468944" lon="38.2383902670001" version="1" />
+    <node changeset="1" id="-61" lat="37.7437544790001" lon="38.2383474370001" version="1" />
+    <node changeset="1" id="-62" lat="37.7442898580001" lon="38.238561588" version="1" />
+    <node changeset="1" id="-63" lat="37.7453106470001" lon="38.23934681" version="1" />
+    <node changeset="1" id="-64" lat="37.7455390750001" lon="38.239432471" version="1" />
+    <node changeset="1" id="-65" lat="37.7456461510001" lon="38.239439609" version="1" />
+    <node changeset="1" id="-66" lat="37.7457817800001" lon="38.2393896400001" version="1" />
+    <node changeset="1" id="-67" lat="37.7459531010001" lon="38.2388756770001" version="1" />
+    <node changeset="1" id="-68" lat="37.7462100830001" lon="38.238083316" version="1" />
+    <node changeset="1" id="-69" lat="37.7462886050001" lon="38.2380262090001" version="1" />
+    <node changeset="1" id="-70" lat="37.746381404" lon="38.2379833790001" version="1" />
+    <node changeset="1" id="-71" lat="37.7464313730001" lon="38.237947687" version="1" />
+    <node changeset="1" id="-72" lat="37.7461458380001" lon="38.2377692270001" version="1" />
+    <node changeset="1" id="-73" lat="37.7456532890001" lon="38.2373552010001" version="1" />
+    <node changeset="1" id="-74" lat="37.745217848" lon="38.2368412380001" version="1" />
+    <node changeset="1" id="-75" lat="37.744989419" lon="38.23643435" version="1" />
+    <node changeset="1" id="-76" lat="37.7448823440001" lon="38.2363201360001" version="1" />
+    <node changeset="1" id="-77" lat="37.7447752680001" lon="38.236270167" version="1" />
+    <node changeset="1" id="-78" lat="37.7446253620001" lon="38.2362416140001" version="1" />
+    <node changeset="1" id="-79" lat="37.744475456" lon="38.236263029" version="1" />
+    <node changeset="1" id="-80" lat="37.74436838" lon="38.236305859" version="1" />
+    <node changeset="1" id="-81" lat="37.744082845" lon="38.236398658" version="1" />
+    <node changeset="1" id="-82" lat="37.7439186620001" lon="38.2363843810001" version="1" />
+    <node changeset="1" id="-83" lat="37.743833001" lon="38.2363701040001" version="1" />
+    <node changeset="1" id="-84" lat="37.7436331270001" lon="38.236312997" version="1" />
+    <node changeset="1" id="-85" lat="37.7433904220001" lon="38.2361916450001" version="1" />
+    <node changeset="1" id="-86" lat="37.7431334400001" lon="38.235870418" version="1" />
+    <way changeset="1" id="-87" version="1">
+      <nd ref="-59" />
+      <nd ref="-60" />
+      <nd ref="-61" />
+      <nd ref="-62" />
+      <nd ref="-63" />
+      <nd ref="-64" />
+      <nd ref="-65" />
+      <nd ref="-66" />
+      <nd ref="-67" />
+      <nd ref="-68" />
+      <nd ref="-69" />
+      <nd ref="-70" />
+      <nd ref="-71" />
+      <nd ref="-72" />
+      <nd ref="-73" />
+      <nd ref="-74" />
+      <nd ref="-75" />
+      <nd ref="-76" />
+      <nd ref="-77" />
+      <nd ref="-78" />
+      <nd ref="-79" />
+      <nd ref="-80" />
+      <nd ref="-81" />
+      <nd ref="-82" />
+      <nd ref="-83" />
+      <nd ref="-84" />
+      <nd ref="-85" />
+      <nd ref="-86" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-88" lat="37.7756607970001" lon="38.2069005810001" version="1" />
+    <node changeset="1" id="-89" lat="37.775988087" lon="38.205069828" version="1" />
+    <way changeset="1" id="-90" version="1">
+      <nd ref="-88" />
+      <nd ref="-89" />
+      <tag k="highway" v="service" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-91" lat="37.7679649" lon="38.2145512000001" version="1" />
+    <node changeset="1" id="-92" lat="37.7676488000001" lon="38.213441313" version="1" />
+    <way changeset="1" id="-93" version="1">
+      <nd ref="-91" />
+      <nd ref="-92" />
+      <tag k="highway" v="service" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-94" lat="37.7854472000001" lon="38.3050787" version="1" />
+    <node changeset="1" id="-95" lat="37.786335583" lon="38.3061476680001" version="1" />
+    <node changeset="1" id="-96" lat="37.786811476" lon="38.3065854880001" version="1" />
+    <node changeset="1" id="-97" lat="37.7870874930001" lon="38.3068139170001" version="1" />
+    <node changeset="1" id="-98" lat="37.7871731540001" lon="38.3070708980001" version="1" />
+    <node changeset="1" id="-99" lat="37.7871776010001" lon="38.3072058980001" version="1" />
+    <way changeset="1" id="-100" version="1">
+      <nd ref="-94" />
+      <nd ref="-95" />
+      <nd ref="-96" />
+      <nd ref="-97" />
+      <nd ref="-98" />
+      <nd ref="-99" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-101" lat="37.7630434230001" lon="38.312505672" version="1" />
+    <node changeset="1" id="-102" lat="37.7629788" lon="38.3116905000001" version="1" />
+    <way changeset="1" id="-103" version="1">
+      <nd ref="-101" />
+      <nd ref="-102" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-104" lat="37.738763573" lon="38.2218246300001" version="1" />
+    <node changeset="1" id="-105" lat="37.739738602" lon="38.2233265520001" version="1" />
+    <way changeset="1" id="-106" version="1">
+      <nd ref="-104" />
+      <nd ref="-105" />
+      <tag k="highway" v="service" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-107" lat="37.775988087" lon="38.205069828" version="1" />
+    <node changeset="1" id="-108" lat="37.7762315160001" lon="38.2037081670001" version="1" />
+    <way changeset="1" id="-109" version="1">
+      <nd ref="-107" />
+      <nd ref="-108" />
+      <tag k="highway" v="service" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-110" lat="37.741448781" lon="38.240488951" version="1" />
+    <node changeset="1" id="-111" lat="37.7416058260001" lon="38.240374737" version="1" />
+    <node changeset="1" id="-112" lat="37.7417200400001" lon="38.240324769" version="1" />
+    <node changeset="1" id="-113" lat="37.7418556690001" lon="38.2402890770001" version="1" />
+    <node changeset="1" id="-114" lat="37.742041267" lon="38.2402748000001" version="1" />
+    <node changeset="1" id="-115" lat="37.742333941" lon="38.2401391710001" version="1" />
+    <node changeset="1" id="-116" lat="37.742540954" lon="38.2398821890001" version="1" />
+    <node changeset="1" id="-117" lat="37.742805074" lon="38.239175489" version="1" />
+    <node changeset="1" id="-118" lat="37.7431548550001" lon="38.2386115570001" version="1" />
+    <node changeset="1" id="-119" lat="37.743207484" lon="38.238574478" version="1" />
+    <way changeset="1" id="-120" version="1">
+      <nd ref="-110" />
+      <nd ref="-111" />
+      <nd ref="-112" />
+      <nd ref="-113" />
+      <nd ref="-114" />
+      <nd ref="-115" />
+      <nd ref="-116" />
+      <nd ref="-117" />
+      <nd ref="-118" />
+      <nd ref="-119" />
+      <tag k="highway" v="track" />
+    </way>
+  </create>
+</osmChange>

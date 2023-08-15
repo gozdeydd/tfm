@@ -1,0 +1,85 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.315628, 38.349619 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.314867, 38.350533 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.317732, 38.349643 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.312921, 38.350606 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.311049, 38.350665 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.311957, 38.350920 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.310643, 38.350306 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.313389, 38.350504 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.306902, 38.351304 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.306065, 38.351350 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.303719, 38.351336 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.300125, 38.351890 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.304746, 38.356106 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.301271, 38.351530 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.303408, 38.347960 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.302501, 38.347918 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.301695, 38.349715 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.306050, 38.352680 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.311780, 38.353041 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.313384, 38.353398 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.316339, 38.349888 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.315364, 38.351277 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.319819, 38.352091 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.320923, 38.352876 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.320402, 38.351684 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.318330, 38.349693 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.314167, 38.350694 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.290821, 38.343617 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.280377, 38.336416 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.248680, 38.335680 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.248680, 38.335302 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.258309, 38.335533 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.294123, 38.338110 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.295821, 38.337661 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.296855, 38.336760 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.292448, 38.341264 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.292931, 38.341000 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.350070, 38.348417 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.322283, 38.346139 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "Physical Barrier", "element_co": 997, "obj_desc": "Blocked road \/ interruption", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 997, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 38.333709, 38.345590 ] } }
+
+]
+}
